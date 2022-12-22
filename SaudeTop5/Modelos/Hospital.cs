@@ -9,13 +9,13 @@ public partial class Hospital
 
     public string Nome { get; set; } = null!;
 
-    public string? Cnpj { get; set; }
+    public string? Cnpj { get; set; } = null!;
 
-    public string? Endereço { get; set; }
+    public string? Endereco { get; set; } = null!;
 
     public string? Telefone { get; set; }
 
-    public string? Cnes { get; set; }
+    public string? Cnes { get; set; } = null!;
 
     public bool Ativo { get; set; }
 
