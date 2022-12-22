@@ -17,6 +17,8 @@ namespace SaudeTop5
             builder.Services.AddScoped<SaudeTop5.Interfaces.IProfissionalRepository, SaudeTop5.Repositorios.ProfissionalRepository>();
             builder.Services.AddScoped<SaudeTop5.Interfaces.IBeneficiarioRepository, SaudeTop5.Repositorios.BeneficiarioRepository>();
             builder.Services.AddScoped<SaudeTop5.Interfaces.IEspecialidadeRepository, SaudeTop5.Repositorios.EspecialidadeRepository>();
+            builder.Services.AddScoped<SaudeTop5.Interfaces.IAgendamentoConfiguracaoRepository, SaudeTop5.Repositorios.AgendamentoConfigRepository>();
+            builder.Services.AddScoped<SaudeTop5.Interfaces.IHospitalRepository, SaudeTop5.Repositorios.HospitalRepository>();
 
 
 
