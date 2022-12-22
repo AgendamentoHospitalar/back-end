@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SaudeTop5.props" />
+</Project>
