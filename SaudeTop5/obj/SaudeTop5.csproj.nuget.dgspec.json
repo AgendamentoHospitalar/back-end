@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\g.de.melo.martins\\source\\repos\\SaudeTop5\\SaudeTop5\\SaudeTop5.csproj": {}
+    "C:\\Users\\igo.marcos.da.silva\\Desktop\\Projeto\\back-end\\SaudeTop5\\SaudeTop5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\g.de.melo.martins\\source\\repos\\SaudeTop5\\SaudeTop5\\SaudeTop5.csproj": {
+    "C:\\Users\\igo.marcos.da.silva\\Desktop\\Projeto\\back-end\\SaudeTop5\\SaudeTop5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g.de.melo.martins\\source\\repos\\SaudeTop5\\SaudeTop5\\SaudeTop5.csproj",
+        "projectUniqueName": "C:\\Users\\igo.marcos.da.silva\\Desktop\\Projeto\\back-end\\SaudeTop5\\SaudeTop5.csproj",
         "projectName": "SaudeTop5",
-        "projectPath": "C:\\Users\\g.de.melo.martins\\source\\repos\\SaudeTop5\\SaudeTop5\\SaudeTop5.csproj",
-        "packagesPath": "C:\\Users\\g.de.melo.martins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g.de.melo.martins\\source\\repos\\SaudeTop5\\SaudeTop5\\obj\\",
+        "projectPath": "C:\\Users\\igo.marcos.da.silva\\Desktop\\Projeto\\back-end\\SaudeTop5\\SaudeTop5.csproj",
+        "packagesPath": "C:\\Users\\igo.marcos.da.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igo.marcos.da.silva\\Desktop\\Projeto\\back-end\\SaudeTop5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\g.de.melo.martins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\igo.marcos.da.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

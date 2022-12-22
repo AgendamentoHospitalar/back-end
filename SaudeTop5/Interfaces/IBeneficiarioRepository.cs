@@ -1,5 +1,6 @@
 ﻿using SaudeTop5.Entidade;
 using SaudeTop5.Dto.Beneficiario;
+using SaudeTop5.Entidade;
 
 namespace SaudeTop5.Interfaces
 {
