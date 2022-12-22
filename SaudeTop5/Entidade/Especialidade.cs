@@ -21,7 +21,7 @@ namespace SaudeTop5.Entidade
         [Unicode(false)]
         public string Nome { get; set; } = null!;
         [Unicode(false)]
-        public string? Descrição { get; set; }
+        public string? Descricao { get; set; }
         public bool Ativo { get; set; }
 
         [InverseProperty("IdEspecialidadeNavigation")]

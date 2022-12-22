@@ -95,7 +95,8 @@ namespace SaudeTop5.Repositorios
                     })
                     ?.FirstOrDefault()
                     ?? new BeneficiarioDto();
-                    }
+        }
+
 
         public List<BeneficiarioDto> ListarTodos()
         {
